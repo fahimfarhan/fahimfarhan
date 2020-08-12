@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello there 👋
+
+- 🔭 I’m currently working on Android
+- 🌱 I’m currently learning kotlin, and a little bit of backend stuffs
+- 👯 I’m looking to collaborate on awesome projects
+- 🤔 I’m looking for help with problem solving at codeforces
+- 💬 Ask me about anything
+- 📫 How to reach me: fahim.farhan@outlook.com
+- ⚡ Fun fact: Nothing is true, everything is permitted
 
 <!--
 **fahimfarhan/fahimfarhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
