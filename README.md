@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=fahimfarhan&color=green)
 ### 👋 Hello there :rocket:
 
 - 🔭 I’m currently working on Android
