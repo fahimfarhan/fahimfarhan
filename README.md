@@ -2,16 +2,14 @@
 ### 👋 Hello there :rocket:
 
 - 🔭 I’m currently working on Android
-- 🌱 I’m currently learning kotlin, and a little bit of backend stuffs
-- 👯 I’m looking to collaborate on awesome projects
+- 🌱 I’m currently learning Tensorflow
+- 👯 I’m looking to collaborate on machine learning projects
 - 🤔 I’m looking for help with problem solving at codeforces
 - 💬 Ask me about anything
 - 📫 How to reach me: fahim.farhan@outlook.com
 - ⚡ Fun fact: Nothing is true, everything is permitted
 
-- :rocket: “The currents before us are ever changing. We must adapt and press forward if we are to see our journey's end.” “And how will we know when we get there?” Thus, begins Civilization 
-
-## Find me on
+### Find me on
 * [orcid.org](https://orcid.org/0000-0003-4521-2608)
 * [academia.edu](https://independent.academia.edu/QaziFahimFarhan)
 * [researchgate.net](https://www.researchgate.net/profile/Qazi-Fahim-Farhan)
@@ -33,4 +31,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+- :rocket: “The currents before us are ever changing. We must adapt and press forward if we are to see our journey's end.” “And how will we know when we get there?” Thus, begins Civilization 
+
 -->
